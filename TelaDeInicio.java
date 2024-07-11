@@ -30,7 +30,7 @@ public class TelaDeInicio {
         startPanel2.setLayout(new BorderLayout());
 
         // Adicionar texto ao painel secundário
-        JLabel welcomeLabel2 = new JLabel("Desenvolvedores: Gabrielle, Luiza, Paulo e Juan.", SwingConstants.CENTER);
+        JLabel welcomeLabel2 = new JLabel("Desenvolvedor: Paulo", SwingConstants.CENTER);
         welcomeLabel2.setFont(new Font("Arial", Font.BOLD, 18));
         startPanel.add(welcomeLabel2, BorderLayout.PAGE_START);
 
