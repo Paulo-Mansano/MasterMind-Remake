@@ -1,10 +1,8 @@
 <h1 align="center"> REGRAS DO JOGO </h1>
 
-### Integrantes: 
-- Gabrielle Guarani da Silva
-- Luiza Hackenhaar Naziazeno
+
 - Paulo Eduardo Carvalho Mansano
-- Juan Marin Peixoto
+
 
 ### Cores Do Jogo:
 - Vermelho
@@ -28,4 +26,4 @@
 ## REGRAS DO JOGO:
 - Não jogar no modo teste,ele é apenas para aprender a jogar o mastermind;
 - Rodar o jogo na classe TelaDeInicio;
-- A cor de  fundo do jogo só poderá ser escolhida uma fez.
+- A cor de  fundo do jogo só poderá ser escolhida uma vez.
